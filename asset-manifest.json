@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Lab7Front/goods-gallery/static/css/main.fef2b6b0.css",
+    "main.js": "/Lab7Front/goods-gallery/static/js/main.2f0194b5.js",
+    "index.html": "/Lab7Front/goods-gallery/index.html",
+    "main.fef2b6b0.css.map": "/Lab7Front/goods-gallery/static/css/main.fef2b6b0.css.map",
+    "main.2f0194b5.js.map": "/Lab7Front/goods-gallery/static/js/main.2f0194b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fef2b6b0.css",
+    "static/js/main.2f0194b5.js"
+  ]
+}
